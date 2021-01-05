@@ -1,16 +1,16 @@
-title:              Clean Blog
+title:              Sojin Yoon
 email:              sojin.yoon@hotmail.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+description:        Be productive
+author:             Sojin Yoon
 baseurl:            ""
 url:                "https://brightstone9.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    brightstone9
+facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username: 
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
