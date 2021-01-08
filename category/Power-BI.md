@@ -1,5 +1,5 @@
 ---
 layout: category
-title: posts/powerbi
+title: Power BI
 permalink: '/posts/powerbi'
 ---
