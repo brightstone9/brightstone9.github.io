@@ -4,7 +4,7 @@ tags: gamedev
 article_header:
   type: cover
   image:
-    src: /assets/images/header/gamedevStart.png
+    src: ./assets/images/header/gamedevStart.PNG
 ---
 
 text to be inserted
