@@ -20,11 +20,11 @@ I love playing games. I play games almost every single day and my ideal weekend 
 
 While watching videos from GDCs, I came across the [Gamer Motivation Profile](https://apps.quanticfoundry.com/surveys/answer/gamerprofile/) test. After answering a couple of questions, it shows what kind of a gamer you are. Intrigued, I decided to invest 5 min of my time. 
 
-![Architect](brightstone9.github.io/assets/images/post/gamedevStart2.PNG)
+![Architect](https://github.com/brightstone9/brightstone9.github.io/blob/main/assets/images/post/gamedevStart2.PNG)
 
 According to the test I am a type 'Architect'. *" **Architects** are solo gamers that enjoy planning, decision-making, and progression. They prefer slow-paced, relaxing gameplay where they can plan and build something grand and enduring."* Well, that makes sense I guess. 
 
-![Motivation](brightstone9.github.io/assets/images/post/gamedevStart3.PNG)
+![Motivation](https://github.com/brightstone9/brightstone9.github.io/blob/main/assets/images/post/gamedevStart3.PNG)
 
 I enjoy a good community. I like improving my charater, not necessary to compete with others, but just for the sake of it. I don't need a well written story, but need a world, where I can pretend to be in. 
 
